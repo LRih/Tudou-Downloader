@@ -1,0 +1,74 @@
+{
+  "speed_limit": 150,
+  "soku_priorities": [
+    "56",
+    "youku",
+    "letv",
+    "qq",
+    "fengxing",
+    "cntv",
+    "tudou"
+  ],
+  "history": [
+    {
+      "name": "<unknown>",
+      "url": "http://list.youku.com/show/id_z5befbfbdefbfbd071069.html"
+    },
+    {
+      "name": "<unknown>",
+      "url": "http://list.youku.com/show/id_z5befbfbdefbfbd071069.html?spm=a2h0j.8191423.sMain.5~5~A!2"
+    },
+    {
+      "name": "<unknown>",
+      "url": "http://list.youku.com/show/id_zda58c2950acb11e6bdbb.html?spm=a2h0j.8191423.sMain.5~5~A!2"
+    },
+    {
+      "name": "锦绣未央",
+      "url": "http://list.youku.com/show/id_z7bd563d8a56811e5be16.html?spm=a2h0j.8191423.sMain.5~5~A!2"
+    },
+    {
+      "name": "咱们相爱吧 TV版",
+      "url": "http://list.youku.com/show/id_z69cc4c7647d811e5a080.html?spm=a2h0j.8191423.sMain.5~5~A!2.C8t14i"
+    },
+    {
+      "name": "杉杉来了",
+      "url": "http://tv.sohu.com/item/MTE5MjM3OQ==.html"
+    },
+    {
+      "name": "寒山令",
+      "url": "http://www.youku.com/show_page/id_z82b319bebdca11e5b32f.html?spm=a2h0j.8191423.sMain.5~5~A!2"
+    },
+    {
+      "name": "好家伙",
+      "url": "http://tv.sohu.com/s2012/hjh/"
+    },
+    {
+      "name": "还珠格格 第二部",
+      "url": "http://tv.sohu.com/item/MjI2NzQ=.html"
+    },
+    {
+      "name": "微微一笑很倾城",
+      "url": "http://www.youku.com/show_page/id_z9cd2277647d311e5b692.html"
+    },
+    {
+      "name": "<unknown>",
+      "url": "http://tv.sohu.com/item/MjI2NzQ=.html"
+    },
+    {
+      "name": "第二十二条婚规",
+      "url": "http://www.soku.com/detail/show/XMTA5OTA2OA=="
+    },
+    {
+      "name": "非常完美 2015",
+      "url": "http://www.soku.com/detail/show/XMTE3ODc0OA=="
+    },
+    {
+      "name": "长沙保卫战",
+      "url": "http://www.soku.com/detail/show/XMTExMzMzMg=="
+    },
+    {
+      "name": "幽幽之恋",
+      "url": "http://www.soku.com/detail/show/XMTMzOTg4"
+    }
+  ]
+}

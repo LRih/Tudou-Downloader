@@ -1,0 +1,74 @@
+{
+  "speed_limit": null,
+  "soku_priorities": [
+    "56",
+    "youku",
+    "letv",
+    "qq",
+    "fengxing",
+    "cntv",
+    "tudou"
+  ],
+  "history": [
+    {
+      "name": "寒山令",
+      "url": "http://www.youku.com/show_page/id_z82b319bebdca11e5b32f.html?spm=a2h0j.8191423.sMain.5~5~A!2"
+    },
+    {
+      "name": "好家伙",
+      "url": "http://tv.sohu.com/s2012/hjh/"
+    },
+    {
+      "name": "还珠格格 第二部",
+      "url": "http://tv.sohu.com/item/MjI2NzQ=.html"
+    },
+    {
+      "name": "微微一笑很倾城",
+      "url": "http://www.youku.com/show_page/id_z9cd2277647d311e5b692.html"
+    },
+    {
+      "name": "<unknown>",
+      "url": "http://tv.sohu.com/item/MjI2NzQ=.html"
+    },
+    {
+      "name": "第二十二条婚规",
+      "url": "http://www.soku.com/detail/show/XMTA5OTA2OA=="
+    },
+    {
+      "name": "非常完美 2015",
+      "url": "http://www.soku.com/detail/show/XMTE3ODc0OA=="
+    },
+    {
+      "name": "长沙保卫战",
+      "url": "http://www.soku.com/detail/show/XMTExMzMzMg=="
+    },
+    {
+      "name": "幽幽之恋",
+      "url": "http://www.soku.com/detail/show/XMTMzOTg4"
+    },
+    {
+      "name": "幽幽之恋",
+      "url": "http://www.soku.com/detail/show/XMTMzOTg4|youku"
+    },
+    {
+      "name": "报告老板！",
+      "url": "http://www.soku.com/detail/show/XMTEzNzQ4NA=="
+    },
+    {
+      "name": "热血忠魂之独行侍卫",
+      "url": "http://www.soku.com/detail/show/XNTI4Mjg="
+    },
+    {
+      "name": "相爱十年 DVD版",
+      "url": "http://www.youku.com/show_page/id_z3a3191ae0ffc11e2b16f.html"
+    },
+    {
+      "name": "甜蜜杀机",
+      "url": "http://www.soku.com/detail/show/XMTE0NDExMg=="
+    },
+    {
+      "name": "甜蜜杀机",
+      "url": "http://www.youku.com/show_page/id_z1dd305807bf611e38b3f.html"
+    }
+  ]
+}
